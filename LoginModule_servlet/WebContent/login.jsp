@@ -8,7 +8,7 @@
 </head>
 <body>
 
-	Login <br>
+	Login page:<br>
 	
 	<form action="login" >
 		Enter username: <input type="text" name="username"> <br>
