@@ -10,7 +10,7 @@
 
 	Login page:<br>
 	
-	<form action="login" >
+	<form action="login" method="post">
 		Enter username: <input type="text" name="username"> <br>
 		Enter password: <input type="password" name="password"> <br>
 		<input type="submit" value="login"> <br>
